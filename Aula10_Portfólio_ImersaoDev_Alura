@@ -1,0 +1,75 @@
+<html>
+  <head> <title>Meu Portfolio </title>
+       <link rel="stylesheet" type="text/css" href="estilo.css">
+    <style> /* Sexta-feira,01/10/2021 {pela manhã} das 14:20:00 até as 11:45:55  h +|-  h +|-  */</style>
+	   <meta charset="utf-8">
+   <head>
+    <header>
+         <marquee>meu Portfólio da Imersão Dev/09 </marquee>
+       <div class="menu">
+    <ul>
+        <li><a href="https://www.youtube.com/user/aluracursosonline">canal_Alura</a> </li>
+    <li><a href="https://www.facebook.com/search/top?q=alura%20cursos%20online">face_Alura</a></li>
+        <li><a href="https://www.alura.com.br/empresas?gclid=CjwKCAjw49qKBhAoEiwAHQVTo9Ik4or7KJbswmPJKa7l8Lhx2s10RuIah99t9rOparTXfLS__s6vVxoCsg0QAvD_BwE">Pag_Alura</a></li>
+        <li><a href="https://github.com/search?q=alura+escola">GitHub_Alura</a></li>
+      
+              
+               
+    </ul>
+</div>   	
+     </header>
+   <body>
+    <div class="container">
+      <header class="perfil">
+       <img class="perfil-foto" src= "https://github.com/ProgramadorWebJavascriprt.png"/>
+        
+        <div  class="titulo"> <h1> André Luis Kunert   </h1>
+          <h2>  <a href="https://github.com/ProgramadorWebJavascriprt">ProgramadorWebJavascript </a>   </h2>  
+            </header> 
+        </div>
+      <div>      
+     <main class="projetos">
+            <h4>
+  Quem sou eu:<br>
+   # Sou formado Técnico em Informática{Colégio Estadual de Pato Branco}<br>
+  # Fiz o curso de Carreira Analista de TI e Sistemas{Prepara Cursos} <br>
+              #Fiz o curso de Web Designer-Micrólins #Entre outros cursos para TI-Micrólins; <br></h3>
+                   <ul><h4>Projetos da Imersão Dev/09:<ul> <br>
+                      <li><a href="https://codepen.io/obsevadorvirtual/pen/YzQBrYL">Conversor de moeda</a></li><br> 
+                         <li><a href="https://codepen.io/obsevadorvirtual/pen/eYRXvaw">Super Trunfo2</a> </li> <br> 
+                            <li><a href="https://codepen.io/obsevadorvirtual/pen/bGRzmyb">Super Trunfo1</a>
+                         </li>
+<br>  <li><a href="https://codepen.io/obsevadorvirtual/pen/YzQBrYL"> Calculadora de média</a>
+                         </li><br>
+                      <li><a href="https://codepen.io/obsevadorvirtual/pen/rNwPxwg"> Tabela de classificação_Revisão- Dia 05/09</a>
+                         </li><br>
+                      <li><a href="https://codepen.io/obsevadorvirtual/pen/RwgEOxg">Aluraflix</a>
+                         </li><br>
+                      <li><a href="https://codepen.io/obsevadorvirtual/pen/YzQBrYL"> Calculadora de média- Dia 06/09</a></li><br>
+                      <li><a href="https://codepen.io/obsevadorvirtual/pen/mdwaWEw"> Mentalista - ID3-Revisão</a> </li>  <br>
+                     <li><a href="https://codepen.io/obsevadorvirtual/pen/oNwpxvo">Aprendendo sobre listas </a> </li> <br> 
+                      <li><a href="https://codepen.io/obsevadorvirtual/pen/OJgGPXX?editors=1000">Aula 09 - Figma, HTML e CSS - Imersão Dev_revisâo</a></li><br>
+                        
+           </ul>
+          </h4>
+         </main>
+        </div>
+   
+
+
+</body>
+ <footer>
+  	<div class="rodape">
+  		<div class="rodape">
+            <ul><li><a href="https://www.facebook.com/">facebook</a></li>
+            <li><a href="https://www.youtube.com/">you tube</a></li>
+            <li><a href="https://web.whatsapp.com/">whats</a></li>
+            <li><a href="https://mail.google.com/mail/u/0/?tab=wm&ogbl#inbox">e-mail</a></li>
+        </ul>
+  	 </div>
+
+  		<center>  André Luis Kunert-Setembro-2021</center>
+    </div>
+     <marquee>meu Portfólio da Imersão Dev/09 </marquee>
+  </footer>   
+</html>
